@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/axios-redux-learn/static/css/main.bb858ed0.css",
+    "main.js": "/axios-redux-learn/static/js/main.4b8296f3.js",
+    "index.html": "/axios-redux-learn/index.html",
+    "main.bb858ed0.css.map": "/axios-redux-learn/static/css/main.bb858ed0.css.map",
+    "main.4b8296f3.js.map": "/axios-redux-learn/static/js/main.4b8296f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bb858ed0.css",
+    "static/js/main.4b8296f3.js"
+  ]
+}
